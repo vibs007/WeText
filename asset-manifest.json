@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WeText/static/css/main.073c9b0a.css",
+    "main.js": "/WeText/static/js/main.d76f2bcc.js",
+    "static/js/787.719ec76d.chunk.js": "/WeText/static/js/787.719ec76d.chunk.js",
+    "index.html": "/WeText/index.html",
+    "main.073c9b0a.css.map": "/WeText/static/css/main.073c9b0a.css.map",
+    "main.d76f2bcc.js.map": "/WeText/static/js/main.d76f2bcc.js.map",
+    "787.719ec76d.chunk.js.map": "/WeText/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d76f2bcc.js"
+  ]
+}
